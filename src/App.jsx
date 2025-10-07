@@ -31,10 +31,10 @@ function App() {
         </Suspense>
 
         <Suspense fallback={<span className="loading loading-spinner loading-lg"></span>}>
-          <MarkChart></MarkChart>
+          <MarkChart markPromise={markPromise}></MarkChart>
         </Suspense>
 
-        <ResultsChart  markPromise={ markPromise }></ResultsChart>
+        <ResultsChart markPromise={ markPromise}></ResultsChart>
 
       </main>
 
