@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Khan",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "Maya Rahman",
+    "marks": {
+      "physics": 92,
+      "chemistry": 88,
+      "math": 95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rafiul Hasan",
+    "marks": {
+      "physics": 76,
+      "chemistry": 81,
+      "math": 74
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "marks": {
+      "physics": 89,
+      "chemistry": 93,
+      "math": 87
+    }
+  },
+  {
+    "id": 5,
+    "name": "Imran Hossain",
+    "marks": {
+      "physics": 64,
+      "chemistry": 70,
+      "math": 68
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tania Akter",
+    "marks": {
+      "physics": 91,
+      "chemistry": 84,
+      "math": 89
+    }
+  },
+  {
+    "id": 7,
+    "name": "Samiul Karim",
+    "marks": {
+      "physics": 73,
+      "chemistry": 65,
+      "math": 78
+    }
+  },
+  {
+    "id": 8,
+    "name": "Lamia Chowdhury",
+    "marks": {
+      "physics": 88,
+      "chemistry": 90,
+      "math": 85
+    }
+  },
+  {
+    "id": 9,
+    "name": "Adnan Kabir",
+    "marks": {
+      "physics": 95,
+      "chemistry": 92,
+      "math": 98
+    }
+  },
+  {
+    "id": 10,
+    "name": "Farhana Islam",
+    "marks": {
+      "physics": 80,
+      "chemistry": 75,
+      "math": 82
+    }
+  }
+]
